@@ -23,9 +23,8 @@ Arduino GIGA R1でUSB Host shield 2.0無しでps4コントローラー使用で�
 1. このリポジトリのリリースから ZIP ファイルをダウンロードします。
 2. Arduino IDE を開き、`スケッチ` > `ライブラリをインクルード` > `.ZIP形式のライブラリをインストール...` を選択します。
 3. ダウンロードした ZIP ファイルを選択してインストールを完了させてください。
-- <img width="661" height="707" alt="Image" src="https://github.com/user-attachments/assets/19bcd3f1-6881-4428-a195-2b22a16a1bbb" />
 - <img width="712" height="361" alt="Image" src="https://github.com/user-attachments/assets/16fed481-7f32-46b5-ac18-06a537f9724a" />
-
+- <img width="952" height="521" alt="Image" src="https://github.com/user-attachments/assets/0ba12112-457b-4fa8-af18-ac78b39c9383" />
 ## スケッチ例
 付属しているスケッチ例はすでに実践的に使用可能なレベルのものです。
 スケッチ例を呼び出す方法については以下です。
