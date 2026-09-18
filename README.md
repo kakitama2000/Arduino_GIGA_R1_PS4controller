@@ -6,7 +6,7 @@ Arduino GIGA R1でUSB Host shield 2.0無しでps4コントローラー使用で�
 `USBHostShield2.0` の `PS4.h` と高い互換性を持つAPIを提供しており、過去のコードからの移行が容易です。
 
 ## 特徴
-- Mbed OS の `Arduino_USBHostMbed5` をバックエンドに使用
+- Mbed OS の `Arduino_USBHostMbed5` をバックエンドに使用(そのため`Arduino_USBHostMbed5`を先に導入をしておいてください)
 - USBHostShield 2.0 互換の API 命名規則 (`getButtonPress`, `getButtonClick`, `getAnalogHat` など)
 - 押しっぱなし (Press) と 押した瞬間 (Click) の両方のイベント検出に対応
 - ※ロボコンで使用することを想定した設計になるため、LEDや振動系は完全に抜いています。
