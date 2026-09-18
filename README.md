@@ -23,4 +23,12 @@ Arduino GIGA R1でUSB Host shield 2.0無しでps4コントローラー使用で�
 1. このリポジトリのリリースから ZIP ファイルをダウンロードします。
 2. Arduino IDE を開き、`スケッチ` > `ライブラリをインクルード` > `.ZIP形式のライブラリをインストール...` を選択します。
 3. ダウンロードした ZIP ファイルを選択してインストールを完了させてください。
-https://github.com/user-attachments/assets/16fed481-7f32-46b5-ac18-06a537f9724a
+- https://github.com/user-attachments/assets/16fed481-7f32-46b5-ac18-06a537f9724a
+- https://github.com/user-attachments/assets/1b62c335-ecc9-44b8-8e23-11aa4adf7274
+
+## スケッチ例
+付属しているスケッチ例はすでに実践的に使用可能なレベルのものです。
+スケッチ例を呼び出す方法については以下です。
+1. `ファイル` > `スケッチ例` > `カスタムライブラリのスケッチ例`から、`mbed_usbps4` > `PS4USB_GIGA_R1_base`
+2. あとは好きにコードを書くのじゃ
+3. https://github.com/user-attachments/assets/19bcd3f1-6881-4428-a195-2b22a16a1bbb
