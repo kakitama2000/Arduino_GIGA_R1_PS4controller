@@ -7,6 +7,9 @@ Arduino GIGA R1でUSB Host shield 2.0無しでps4コントローラー使用で�
 ですが挙動は完全に同じわけではなく、、少し違ったりするため注意が必要です。  
 例えば、「Click」を例に出すと、Clickが実行されるまでClickした情報がバッファで保存され、実行してから、正常に終了するまで待機します。
 
+## 実績
+さんフェア2026 第34回全国高等学校ロボット競技大会で使用、問題ありませんでした。
+
 ## 特徴
 - Mbed OS の `Arduino_USBHostMbed5` をバックエンドに使用(そのため`Arduino_USBHostMbed5`を先に導入をしておいてください)
 - USBHostShield 2.0 互換の API 命名規則 (`getButtonPress`, `getButtonClick`, `getAnalogHat` など)
